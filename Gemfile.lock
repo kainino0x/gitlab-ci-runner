@@ -81,7 +81,7 @@ DEPENDENCIES
   guard
   guard-rspec
   httparty
-  json (~> 1.7.7)
+  json (~> 1.8.2)
   pry
   rspec
   vcr
